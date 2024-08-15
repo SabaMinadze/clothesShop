@@ -14,10 +14,9 @@ export default {
     <div>
         <div class="box">
             <br/>
-            <center><h1 class="txt1">ჩვენი ბიჭები</h1></center>
+            <center><h1 class="txt1">Choose your favourite cloth shop in Tbilisi and visit their officil website</h1></center>
            <div class="mainBox">
                 <div class="boxColaidor">
-                    <p class="txt2">აირჩიეთ თქვენი სასურველი მამაკაცი</p>
                     <br/>
                     <center><input type="text" name="name" class="name" placeholder="search shop name"></center>
                     <br/>
@@ -44,7 +43,6 @@ export default {
 
 .txt1{
     font-weight: 800;
-    text-align: center;
     color: white;
 }
 

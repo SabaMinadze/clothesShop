@@ -2,6 +2,10 @@
 import head1 from "../components/head1.vue"
 import head2 from "../components/head2.vue"
 import maincontent from '../components/maincontent.vue'
+
+
+
+
 export default {
   components: {
     head1,
