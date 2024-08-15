@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1,
+        "shopName": "Zara",
+        "description": "Hello Zara dolor sit amet constam eveniet laboreritasdasdasasdasds placeat vel qui. Ex nesciunt cumque aliquam eos.",
+        "price": 30,
+        "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0xrNZ2-JzPynIh79ud05VHkWN8d_ZhaiIXA&s",
+        "location": "https://www.zara.com/ge/ka/"
+    },
+    {
+        "id": 2,
+        "shopName": "Koton",
+        "description": "Hello Koton dolor sit amet constam eveniet laboreritasdasdasasdasds placeat vel qui. Ex nesciunt cumque aliquam eos..",
+        "price": 50,
+        "link": "https://turkven.com/files/content/koton_30762.png",
+        "location": "https://thecitymall.ge/ge/saburtalo/shops/singleview/473-kotoni"
+    },
+    {
+        "id": 3,
+        "shopName": "Mango",
+        "description": "Hello Mango dolor sit amet constam eveniet laboreritasdasdasasdasds placeat vel qui. Ex nesciunt cumque aliquam eos.",
+        "price": 70,
+        "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Mango-logo.jpg/220px-Mango-logo.jpg",
+        "location": "https://shop.mango.com/ge/en"
+    },
+    {
+        "id": 4,
+        "shopName": "H&M",
+        "description": "Hello H&M dolor sit amet constam eveniet laboreritasdasdasasdasds placeat vel qui. Ex nesciunt cumque aliquam eos.",
+        "price": 90,
+        "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq1n8MdAYvQMMDlpTRkvdYosPoxKbmX-4gUw&s",
+        "location": "https://www.hm.com/ge/"
+    },
+    {
+        "id": 5,
+        "shopName": "Lacoste",
+        "description": "Hello Lacoste dolor sit amet constam eveniet laboreritasdasdasasdasds placeat vel qui. Ex nesciunt cumque aliquam eos.",
+        "price": 120,
+        "link": "https://upload.wikimedia.org/wikipedia/ka/thumb/4/43/Lacoste_logo.svg/1200px-Lacoste_logo.svg.png",
+        "location": "https://www.lacoste.com/se/stores/georgia/tbilisi"
+    },
+    {
+        "id": 6,
+        "shopName": "Polo",
+        "description": "Hello Polo dolor sit amet constam eveniet laboreritasdasdasasdasds placeat vel qui. Ex nesciunt cumque aliquam eos.",
+        "price": 150,
+        "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn6Zi8JLXXYTdlo1EkJOLNI650o6qjn64MgA&s",
+        "location": "https://www.ralphlauren.global/ge/en"
+
+    },
+    {
+        "id": 7,
+        "shopName": "Nike",
+        "description": "Hello Nike dolor sit amet constam eveniet laboreritasdasdasasdasds placeat vel qui. Ex nesciunt cumque aliquam eos",
+        "price": 180,
+        "link": "https://logos-world.net/wp-content/uploads/2020/04/Nike-Logo.png",
+        "location": "https://www.nike.com/retail/s/nike-vazha-pshavela"
+
+    },
+    {
+        "id": 8,
+        "shopName": "Adidas",
+        "description": "Hello Polo dolor sit amet constam eveniet laboreritasdasdasasdasds placeat vel qui. Ex nesciunt cumque aliquam eos.",
+        "price": 210,
+        "link": "https://cdn.logojoy.com/wp-content/uploads/20231013154327/Adidas-logo-1991-1-600x319.png",
+        "location": "https://adidas.ge/product-tag/adidas-tbilisi/u"
+
+    },
+    {
+        "id": 9,
+        "shopName": "Maison Margiela",
+        "description": "Maison Margiela dolor sit amet constam eveniet laboreritasdasdasasdasds placeat vel qui. Ex nesciunt cumque aliquam eos.",
+        "price": 240,
+        "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYi-yWdotjNjKwS1TwqyzqSquH8W2-EJraA&s",
+        "location": "https://www.maisonmargiela.com/wx/"
+    }
+    
+
+  
+  
+]
